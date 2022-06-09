@@ -1,0 +1,12 @@
+.card{
+    background-color: white;
+}
+
+.card-4{
+
+    background-color: #6b6258;
+   
+    
+    grid-area: overlap;
+
+}

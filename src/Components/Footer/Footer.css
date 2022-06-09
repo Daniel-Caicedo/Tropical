@@ -1,0 +1,26 @@
+.o-white-foot{
+height: 300px;
+width: auto;
+}
+.cont-carta{
+
+display: flex;
+justify-content: center;
+
+grid-area: overlap;
+
+}
+
+.o-conte-foot{
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 1fr;
+grid-template-areas: "overlap";
+}
+
+.o-conte-img-foot{
+
+    grid-area: overlap;
+    z-index: -1;
+
+}
